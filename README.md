@@ -10,3 +10,5 @@ Using the VAE model to interpolate pokemon!
 ![Charizard](exported_content/charizard.png)
 
 ![Charizard_Generated](exported_content/charizard_generated.png)
+
+![interpolation](exported_content/pokemon_interpolation.png)
