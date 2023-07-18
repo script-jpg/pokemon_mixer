@@ -1,4 +1,5 @@
-href{https://drive.google.com/file/d/1cdTig5VnMy8IbXc4AOF0PCmJDCXafM5M/view?usp=sharing}
+![Alt Text](exported_content/animation.gif)
+
 
 # pokemon_mixer
 Using the VAE model to interpolate pokemon!
